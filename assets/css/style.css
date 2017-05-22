@@ -1,0 +1,36 @@
+*{ 
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+ }
+header{
+	height: 60px;
+}
+.menu{
+	width: 2000px;
+	height: 30px;
+	padding:5px;
+	background-color: red;
+	color:white;
+	font-size: 13px;	
+}
+.menu .caja{
+	width:60px;
+	height: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: red;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+.panda{
+	width: 1900px;
+	height: 100px;
+	padding: 30px;
+}
+img{
+	border:2px solid red;
+	margin: 10px
+}
